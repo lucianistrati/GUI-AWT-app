@@ -1,0 +1,27 @@
+1.Create premium client
+2.Create normal client
+3.Make a premium transaction
+4.Make a normal transaction
+5.Change the tax for premium clients
+6.Change the commission for premium clients
+7.Change the commission for normal clients
+8.Supplement the amount of money for a certain currency
+9.Obtain total profit
+10.Obtain last transaction profit
+11.Obtain the profit from a certain day
+12.Obtain the price of a Currency Pair
+13.Obtain transaction history of a client
+14.Obtain all currencies available for transactions
+15.Obtain last transaction informations
+16.Obtain informations about all the transactions from a certain day
+17.Make a day pass
+18.Modify a premium client
+19.Modify a normal client
+20.Modify a normal transaction
+21.Modify a premium transaction
+22.Delete a premium client
+23.Delete a normal client
+24.Delete a normal transaction
+25.Delete a premium transaction
+26.Clear DataBase
+27.Exit from the program
